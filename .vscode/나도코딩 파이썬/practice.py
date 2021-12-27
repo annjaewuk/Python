@@ -13,3 +13,14 @@ for lang in languages:
         print("%6s need compiler" % lang)
     else:
         print("should not reach here")
+
+#quiz 1
+
+#station1 = "사당"  
+#station2 = "신도림"
+#station3 = "인천공항"
+
+station = ["사당", "신도림", "인천공항" ] 
+
+for i in station:
+    print(i + " 행 열차가 들어오고 있습니다.") 
