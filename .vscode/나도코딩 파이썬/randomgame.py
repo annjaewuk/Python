@@ -1,4 +1,4 @@
-from random import *
+
 #소수점 제거 후 랜덤값 0~100
 #print(round(random()*100))
 #print(int(random()*100))
@@ -10,6 +10,7 @@ from random import *
 
 #ver_12_28
 
+from random import *
 import time
 import os
 
